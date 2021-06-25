@@ -2,6 +2,9 @@
 Our code will demonstrate the different code snippets that have been used for programming
 classes. We will have this written in both R and Python. 
 
+## Remote location
+I like coffee.
+
 ## Installation
 The full suite of code will require the Tmisc and dplyr R packages; 
 matplotlib and seaborn for Python
